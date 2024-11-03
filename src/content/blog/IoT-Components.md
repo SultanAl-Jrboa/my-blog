@@ -30,4 +30,4 @@ heroImage: '/IoT-Component/IoT-Component-H.png'
 التطبيق- Application :
 توفر تطبيقات انترنت الاشياء واجهة يمكن للمستخدمين استخدامها للتحكم في جوانب مختلفة ومراقبة النظام, بحيث يمكن للمستخدم عرض البيانات المعالجة ومراقبة سير عمل الحساس 
 
-![This is a placeholder image description](/IoT-Component/IoT-Com-Last.png)
+![This is a placeholder image description](/IoT-Component/IoT-Com-Last.png) 
