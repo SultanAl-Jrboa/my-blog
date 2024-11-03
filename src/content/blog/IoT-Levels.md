@@ -2,7 +2,7 @@
 title: 'مستويات إنترنت الأشياء'
 description: ''
 pubDate: 'Nov 03 2024'
-heroImage: 'IoT-Levels-pic/IoT-Levels-H.png'
+heroImage: '/IoT-Levels-pic/IoT-Levels-H.png'
 ---
 
 #### قراءة مقال "مكونات انترنت الاشياء" سيساعدك على فهم مستويات انترنت الاشياء
@@ -61,6 +61,7 @@ heroImage: 'IoT-Levels-pic/IoT-Levels-H.png'
 ![This is a placeholder image description](/IoT-Levels-pic/Level-6.jpg)
 
 هذا الشرح لتبسيط عملية فهم المخطط للمستوى السادس, ويمكنك فهم باقي المخططات عند فهم هذا المخطط:
+
 
 ### الجزء المحلي (Local)
 1. **Device**: وهي الأجهزة الموجودة في البيئة المحلية، مثل المستشعرات أو المحركات. هذه الأجهزة تقوم بجمع البيانات أو تنفيذ عمليات محددة بناءً على أوامر معينة.
