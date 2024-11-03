@@ -1,5 +1,5 @@
 ---
-title: 'IoT Functional Stack'
+title: ' وظائف إنترنت الأشياء'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'Nov 04 2024'
 heroImage: '/IoT-Functional-pic/iot-stack-h.png'
