@@ -4,7 +4,7 @@ description: 'مكونات إنترنت الأشياء الاساسية.'
 pubDate: 'Nov 03 2024'
 heroImage: '/IoT-Component/IoT-Component-H.png'
 ---
-[comment]: <> (for upload: maseeg - commit - push.)
+[comment]: <> (for upload: thing to say - commit - push.)
 
 ### يتكون إنترنت الأشياء من عدة اشياء اساسية
 ![This is a placeholder image description](/IoT-Component/IoT-Devices.png)
